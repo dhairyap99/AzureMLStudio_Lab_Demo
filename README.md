@@ -14,4 +14,8 @@
 **Labels:** Miles per gallon<br/>
 **Algorithm:** Linear Regression<br/>
 **Output Preview:**
-[Azure ML Studio Link](https://gallery.cortanaintelligence.com/Experiment/Experiment-created-on-10-13-2020-6)
+[Azure ML Studio Link](https://gallery.cortanaintelligence.com/Experiment/Experiment-created-on-10-13-2020-6)<br/>
+**Procedure:**<br/>
+![Procedure](https://github.com/dhairyap99/AzureMLStudio_Lab_Demo/blob/main/images/1.png "Procedure")<br/>
+**Model Evaluation Results:**<br/>
+![Procedure](https://github.com/dhairyap99/AzureMLStudio_Lab_Demo/blob/main/images/2.png "Procedure")<br/>
